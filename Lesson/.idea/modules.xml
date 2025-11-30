@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractDemo/AbstractDemo.iml" filepath="$PROJECT_DIR$/AbstractDemo/AbstractDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionDemo/ExceptionDemo.iml" filepath="$PROJECT_DIR$/ExceptionDemo/ExceptionDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExtendsDemo/ExtendsDemo.iml" filepath="$PROJECT_DIR$/ExtendsDemo/ExtendsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceDemo/InterfaceDemo.iml" filepath="$PROJECT_DIR$/InterfaceDemo/InterfaceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RandomInteger/RandomInteger.iml" filepath="$PROJECT_DIR$/RandomInteger/RandomInteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson.iml" filepath="$PROJECT_DIR$/lesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/useString/useString.iml" filepath="$PROJECT_DIR$/useString/useString.iml" />
+    </modules>
+  </component>
+</project>
