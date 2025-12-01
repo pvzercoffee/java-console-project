@@ -6,7 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/ExceptionDemo/ExceptionDemo.iml" filepath="$PROJECT_DIR$/ExceptionDemo/ExceptionDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExtendsDemo/ExtendsDemo.iml" filepath="$PROJECT_DIR$/ExtendsDemo/ExtendsDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterfaceDemo/InterfaceDemo.iml" filepath="$PROJECT_DIR$/InterfaceDemo/InterfaceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManageSystemWrok/ManageSystemWrok.iml" filepath="$PROJECT_DIR$/ManageSystemWrok/ManageSystemWrok.iml" />
       <module fileurl="file://$PROJECT_DIR$/RandomInteger/RandomInteger.iml" filepath="$PROJECT_DIR$/RandomInteger/RandomInteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calendar/calendar.iml" filepath="$PROJECT_DIR$/calendar/calendar.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson.iml" filepath="$PROJECT_DIR$/lesson.iml" />
       <module fileurl="file://$PROJECT_DIR$/useString/useString.iml" filepath="$PROJECT_DIR$/useString/useString.iml" />
     </modules>
